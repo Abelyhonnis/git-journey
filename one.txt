@@ -1,2 +1,7 @@
 one
+<<<<<<< HEAD
 three
+=======
+1
+i am adding another texts here.
+>>>>>>> main
